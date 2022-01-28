@@ -13,4 +13,8 @@ public class ppal
 		System.out.println(unaFigura.toString());
 		System.out.println(unCuadrado.toString());
 	}
+	
+	public static int xx() {
+		return 1;
+	}
 }
