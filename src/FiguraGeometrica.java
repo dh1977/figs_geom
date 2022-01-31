@@ -31,7 +31,7 @@ public class FiguraGeometrica {
         this.perimetro = perimetro;
     }
 
-    //@Override
+    @Override
     public String toString() {
         return "FiguraGeometrica{" + "nombreFigura=" + nombreFigura + ", area=" + area + ", perimetro=" + perimetro + '}';
     }

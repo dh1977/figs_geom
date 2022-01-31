@@ -17,6 +17,10 @@ public class Cuadrado extends FiguraGeometrica{
         return 4 * this.lado;
     }
 
+    public double getLado() {
+    	return this.lado;
+    }
+    
     @Override
     public String toString() {
         return super.toString() + "Cuadrado{" + "lado=" + lado + '}';
