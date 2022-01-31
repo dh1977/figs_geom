@@ -79,7 +79,6 @@ class Ppal {
         for (Shop shop : s2) {
             System.out.println(shop.stock + " " + shop.name +  " " + shop.ProductNo);
         }
-
        
     }
 }
